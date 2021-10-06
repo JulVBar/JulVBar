@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iuliia Barankova.
 - 👀 I’m interested in programming and photography.
-- 🌱 I’m currently learning JavaScript/
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on IT-company.
 - 📫 How to reach me https://julvbar.github.io/Iuliia-Barankova-resume/
 
