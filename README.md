@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iuliia Barankova.
-- 👀 I’m interested in programming, photography, travelling, healthy diet and jym.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in programming, web design, photography.
+- 🌱 I’m currently working as Angular Frontend Developer.
 - 📫 How to reach me https://julvbar.github.io/Iuliia-Barankova-resume/
 
 <!---
